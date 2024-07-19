@@ -1,0 +1,9 @@
+.cursor{
+    background:radial-gradient(
+        600px circle at 0px 0px,
+        rgba(29, 79, 216, 0.705),
+        transparent 60%);
+    filter: blur(125px);
+  }
+
+  
